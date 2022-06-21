@@ -1,0 +1,7 @@
+com\springboottests\customer\CustomerController.class
+com\springboottests\customer\CustomerApplication.class
+com\springboottests\customer\CustomerRepository.class
+com\springboottests\customer\CustomerRegistrationRequest.class
+com\springboottests\customer\CustomerService.class
+com\springboottests\customer\Customer$CustomerBuilder.class
+com\springboottests\customer\Customer.class
